@@ -20,7 +20,7 @@ Utilizo este GitHub como um espaço para documentar minha jornada na tecnologia,
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
     height="170em"
     src="https://github-readme-stats.vercel.app/api?username=ArthurdeOliv&show_icons=true&theme=tokyonight&locale=pt-br"
