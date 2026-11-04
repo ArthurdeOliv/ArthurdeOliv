@@ -18,24 +18,6 @@ Utilizo este GitHub como um espaço para documentar minha jornada na tecnologia,
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=ArthurdeOliv&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdeOliv&layout=compact&theme=tokyonight"
-  />
-</p>
-
-###
-
----
-
 ### 🎓 Formação
 
 📚 Análise e Desenvolvimento de Sistemas - IFSC São José - em andamento
@@ -70,5 +52,3 @@ Utilizo este GitHub como um espaço para documentar minha jornada na tecnologia,
 </div>
 
 ###
-
----
