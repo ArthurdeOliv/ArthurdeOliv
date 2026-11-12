@@ -24,17 +24,6 @@ Utilizo este GitHub como um espaço para documentar minha jornada na tecnologia,
 
 📍 São José - Santa Catarina, Brasil
 
----
-
-### 🎯 Objetivos
-
-- Aprimorar continuamente minhas habilidades em desenvolvimento de software
-- Construir aplicações úteis, funcionais e bem estruturadas
-- Desenvolver experiência prática através de projetos reais
-- Expandir meus conhecimentos em tecnologias modernas e boas práticas de desenvolvimento
-
----
-
 ### 🌐 Contato
 
 ###
