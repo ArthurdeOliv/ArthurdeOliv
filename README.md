@@ -4,9 +4,7 @@
 
 Me chamo Arthur de Oliveira, sou de São José, Santa Catarina.
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web e tecnologia em geral. Ao longo da graduação venho construindo projetos acadêmicos e pessoais que me permitem evoluir continuamente em lógica de programação, programação orientada a objetos, estrutura de dados e desenvolvimento de aplicações.
-
-Utilizo este GitHub como um espaço para documentar minha jornada na tecnologia, compartilhar projetos, registrar aprendizados e acompanhar minha evolução como desenvolvedor.
+Tenho interesse em desenvolvimento de software, desenvolvimento web e tecnologia em geral.
 
 ---
 
